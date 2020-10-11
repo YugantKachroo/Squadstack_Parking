@@ -2,7 +2,8 @@
 
 # Commands to help in running the program on ubuntu, macintosh and windows
 ```
-First set up g++ environment in the device by installing commands. 
+First set up g++ environment in the device by installing commands.
+For Linux the command is sudo apt install g++
 After setting up the g++ environment go in to the directory where the enitre source code is present is present.
 Now run the given below commands
 g++ *.cpp -o output
