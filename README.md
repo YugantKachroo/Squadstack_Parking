@@ -15,10 +15,10 @@ g++ *.cpp -o output
 ## Activity.cpp
 This cpp file is the where we read the input and giucven the correct output according to the functions which are declared in the ParkingLot .cpp file
 
-## Parking_slots.h
+## ParkingLot.h
 It acts as the header files where the classes are defined for further usage.
 
-## Parkinglot.cpp
+## ParkingLot.cpp
 It is the cpp file where the entire logic for all the functions is given and explained
 
 ## Input.txt
