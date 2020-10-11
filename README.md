@@ -4,10 +4,15 @@
 ```
 First set up g++ environment in the device by installing commands.
 For Linux the command is sudo apt install g++
+
 After setting up the g++ environment go in to the directory where the enitre source code is present is present.
+
 Now run the given below commands
+
 g++ *.cpp -o output
 ./output
+
+After completion of the above two mentioned commands, the output.txt file will contain the output generated for the given input file
 ```
 
 # Description
