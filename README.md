@@ -21,4 +21,9 @@ It acts as the header files where the classes are defined for further usage.
 ## Parkinglot.cpp
 It is the cpp file where the entire logic for all the functions is given and explained
 
+## Input.txt
+It is the input file for given program
+
+## Output.txt
+It is the output file for given program
 
