@@ -18,7 +18,7 @@ After completion of the above two mentioned commands, the output.txt file will c
 # Description
 
 ## Activity.cpp
-This cpp file is the where we read the input and giucven the correct output according to the functions which are declared in the ParkingLot .cpp file
+This cpp file is the where we read the input and give the correct output according to the functions which are declared in the ParkingLot.cpp file
 
 ## ParkingLot.h
 It acts as the header files where the classes are defined for further usage.
